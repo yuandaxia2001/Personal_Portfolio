@@ -10,7 +10,7 @@
 
 例如如下测试代码能够按照预期运行（相关测试视频见：[基于Verilog的简易CPU设计](https://www.bilibili.com/video/BV1MP41147MG/)）：
 
-![image-20230813224534164](C:\Users\yuan\Desktop\CPU设计\pictures\image-20230813224534164.png)
+![image-20230813224534164](pictures/image-20230813224534164.png)
 
 CPU组装图：
 
